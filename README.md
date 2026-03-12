@@ -1,16 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Thi My Nhu
+![](https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif) Hi! My name is Nguyen Thi My Nhu
 ==========================================================================================================================================
 
 Game Developer
 --------------
 
-I've been an IT-major college student for almost 3 years and currently trying to work hard on my journey of becoming a game developer.
+I've been an IT-major college student learning game development for almost 3 years.
+
+🌸 I especially enjoy cozy gardening games and love turning small ideas into fun playable experiences.
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [ntmn1105@gmail.com](mailto:ntmn1105@gmail.com)
-* 🧠  I'm learning Unity
-* 🤝  I'm open to collaborating on game projects
-
 
 ### Socials
 
