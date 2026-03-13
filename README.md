@@ -11,8 +11,9 @@ I've been an IT-major college student learning game development for almost 3 yea
 
 🌸 I especially enjoy cozy gardening games and love turning small ideas into fun playable experiences.
 
-* 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [ntmn1105@gmail.com](mailto:ntmn1105@gmail.com)
+* 🌍 I'm based in Vietnam
+* 🎮 You can play my games on Itch.io: [https://ntmynhu.itch.io/](https://ntmynhu.itch.io/)
+* ✉️ You can contact me at [ntmn1105@gmail.com](mailto:ntmn1105@gmail.com)
 
 ### Socials
 
